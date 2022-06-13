@@ -1,5 +1,5 @@
 # TrueArt-Website-For-Artists-Software-Goup-Project-Sem5
-A resposice website created using HTML, CSS , Java Script , Bootstrap and PHP Laravel used by artist for expanding their business. 
+A resposive website created using HTML, CSS , Java Script , Bootstrap and PHP Laravel used by artist for expanding their business. 
 
 It uses MySQL as the dataase and as mentioned earlier it uses PHP Laravel (A PHP framework) as the Backend Service.
 
